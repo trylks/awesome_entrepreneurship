@@ -12,6 +12,8 @@ A convenient way to get started.
   by Y Combinator, Silicon Valley style.
 
 
+* [FollowersAcheter.be Content Planner](https://followersacheter.be/resources/fr_BE/content-planner.xlsx): Free French XLSX with 30 editable rows for content topics, dates, formats and result reviews.
+
 ## Online courses and other paid resources
 
 Take with a grain of salt, you may lose your time AND your money.
